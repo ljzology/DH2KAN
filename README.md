@@ -1,5 +1,5 @@
-# LightHGNN
-This repository contains the source code for the paper "HGNN2KAN: Distilling hypergraph neural networks into KAN for efficient inference" published in The 14th CCF International Conference on Natural Language Processing and Chinese Computing by Junzheng Li.
+# DH2KAN
+This repository contains the source code for the paper "DH2KAN: Distilling Knowledge from Hypergraph Neural NetWork to KAN for Efficient Inference.".
 
 ![framework](doc/framework.jpg)
 
