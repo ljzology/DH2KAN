@@ -1,7 +1,7 @@
 # DH2KAN
 This repository contains the source code for the paper "DH2KAN: Distilling Knowledge from Hypergraph Neural NetWork to KAN for Efficient Inference.".
 
-![framework](doc/DH2KAN-frame.pdf)
+![framework](doc/DH2KAN-frame.png)
 
 ## Introduction
  which is based on the following environments:
