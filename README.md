@@ -50,7 +50,7 @@ model:
 **Change Datasets**
 In our paper, 13 grpah/hypergraph datasets are adopted for evaluation.
 - Graph datasets: `cora`, `pubmed`, `citeseer`
-- Hypergraph datasets: `news20`, `ca_cora`, `cc_cora`, `cc_citeseer`, `dblp4k_conf`, `dblp4k_paper`, `dblp4k_term`, `imdb_aw`, `recipe_100k`, `recipe_200k`
+- Hypergraph datasets: `news20`, `ca_cora`, `cc_cora`, `cc_citeseer`, `dblp4k_conf`, `dblp4k_paper`, `dblp4k_term`, `imdb_aw`
 
 You can change the dataset by modifying the `dataset` in `trans_config.yaml` and `prod_config.yaml` as following:
 ```yaml
